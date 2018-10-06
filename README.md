@@ -26,6 +26,10 @@ Learning basic of Java you should start with:
 
 - [V. Sumbramaniam - Functional Programming in Java](https://www.amazon.com/Functional-Programming-Java-Harnessing-Expressions/dp/1937785467) - Java 8 added possibility of functional programming. This book is short - but quite well explanation lambdas & streams. Functional programming is different from imperative programming which you know - and you should know it. Also streams are very powerful functionality - especially when working on collections and for different algorithmic tasks.
 
+- [JUnit](http://www.vogella.com/tutorials/JUnit/article.html) - JUnit tutorial - simple testing library.
+
+- [Mockito](https://github.com/mockito/mockito/wiki) - Mockito framework for unit tests in Java.
+
 But most important - and most valuable - is of course Java documentation. Sooner or later you will have to read documentations of projects, APIs etc. so start as soon as possible be familiar with it. Java doc could be found on oracle website, just choose wchich version do you need. 
 
 Also remember that Google is your best friend. Probability of that someone asked beginner question that you have trouble with, is getting to 1. So probably every problem you have - is already solved on [StackOverflow](https://stackoverflow.com/)
@@ -80,7 +84,7 @@ To work with databases you have to know at least one database and know SQL. [The
 - [PostgreSQL](https://www.postgresql.org/)
 
 ## Spring Environment
-Spring is second must-have Java framework. It focalized in webdevelopment. Spring environment has a lot of projects. Most important are:
+Spring is second must-have Java framework. It focused in webdevelopment. Spring environment has a lot of projects. Most important are:
 
 - [C. Walls - Spring in Action](https://www.manning.com/books/spring-in-action-fifth-edition) - covers all spring core concepts, like IoC container, Dependency Injection, AOP etc. Very good to start learning Spring.
 
@@ -104,7 +108,32 @@ Spring is second must-have Java framework. It focalized in webdevelopment. Sprin
 
 
 
-##
+## More of valuable knowledge sources
+
+### YouTube
+
+- [Derek Banas](https://www.youtube.com/user/derekbanas) - huge amount of programming things tutorials.
+
+- [Computerphile](https://www.youtube.com/user/Computerphile) - IMO best channel about CS. Its not about concrete language, rather about all CS things.
+
+- [Stefan Mischook](https://www.youtube.com/user/killerphp/featured) - developer with huge experience channel. There is some tutorials but rather its focused on programming vlogs - like languages, what is DevOps etc.
+
+
+### Blogs & Tutorials
+
+- [Baeldung](https://www.baeldung.com/) - best tutorial blog, near all spring commons problems are explained here
+
+- [Mkyoong](https://www.mkyong.com/) - a blog similar to baeldung - good, technical blog about Java. 
+
+- [DZone](https://www.dzone.com/) - an IT general blog.
+
+- [Goalkicker books collection](https://goalkicker.com/) - collection of 50 free programming books - those books are more like "cheatsheets" than a books - but the are worth to look over.
+
+- [TutorialsPoint](https://www.tutorialspoint.com/java/java_interview_questions.htm) - Collection of Java most popular interviews questions. Moreover this page is also good as tutorial provider for many things, eg. SQL syntax etc.
+
+
+
+
 
 
 
