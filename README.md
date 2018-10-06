@@ -35,7 +35,7 @@ Remember about practical side - to learn writing you have to write a lot. When y
 ## Additional tools
 Those tools are needed in Java programming. They are quite easy and you should not have troubles getting into it, but you must be able to use it.
 
-- [Maven](https://maven.apache.org/what-is-maven.html) - dependency management tool, but not only. Basic usage is very easy.
+- [Maven](https://maven.apache.org/what-is-maven.html) - dependency management tool, but not only. Basic usage is trivial.
 
 - [Gradle](https://gradle.org/) - another dependency management tool. It's working similiar to maven. I recommend that you should be familiar with both.
 
