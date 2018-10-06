@@ -1,7 +1,8 @@
 ## Welcome!
 
 I've created this list to gather all valuable materials to learn Java, frameworks (Spring, Hibernate) and a basics of Computer Science/Programming. Purpose of creating this was that nowadays many people ask that question, and don't know what choose, what they needs to know, what about bootcamps, what is needed on the market etc. When i had been starting to learn - i was forced to search everything by myself - and confront many contrary opinions so I've spent more time choosing knowledge source than learning. This list is a helping hand to everyone who wants to learn everything what is needed to create full backend server with Java. 
-This is not a tutorial, there is no technical knowledge included - only collection of materials. I've gathered this materials from my experience, and community recommendations. 
+This is not a tutorial, there is no technical knowledge included - only collection of materials. I've gathered this materials from my experience, and community recommendations.
+ 
 When I was creating this list, I putted on it only things that I had read by myself. If you know book or a course or YouTube channel which is great, and somebody will surely enjoy learning from it - feel free to open issue/msg me - i will acquaint with it and (if it wont be bad) add this to the list. 
 
 ### First steps
