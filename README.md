@@ -62,6 +62,8 @@ Algorithms are important part of programming. You don't need to could implement 
 
 - [R. Sedgewick - Algorithms](https://www.amazon.com/gp/product/032157351X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=algs4-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=032157351X) - Another very good book. I recommend this book - because all examples are writen in Java. There is also ~200 pages about Java language - so it's perfect choice if you're learning Java.
 
+- [Implementation of majority algorithms](https://github.com/TheAlgorithms/Java) - all in Java. You can select random one and figure out how it works.
+
 
 ## Hibernate
 
