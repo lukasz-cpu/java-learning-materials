@@ -1,6 +1,6 @@
 ## Welcome!
 
-I created this list to gather all valuable materials to learn Java, frameworks (Spring, Hibernate) and a basics of Computer Science/Programming. Purpose of creating this was that nowadays many people ask that question, and don't know what choose, what they needs to know, what about bootcamps, what is needed on the market etc. When i had been starting to learn - i was forced to search everything by myself - and confront many contrary opinions so I've spent more time choosing knowledge source than learning. This list is a helping hand to everyone who wants to learn everything what is needed to create full backend server with Java. 
+I've created this list to gather all valuable materials to learn Java, frameworks (Spring, Hibernate) and a basics of Computer Science/Programming. Purpose of creating this was that nowadays many people ask that question, and don't know what choose, what they needs to know, what about bootcamps, what is needed on the market etc. When i had been starting to learn - i was forced to search everything by myself - and confront many contrary opinions so I've spent more time choosing knowledge source than learning. This list is a helping hand to everyone who wants to learn everything what is needed to create full backend server with Java. 
 This is not a tutorial, there is no technical knowledge included - only collection of materials. I've gathered this materials from my experience, and community recommendations. 
 
 ### First steps
@@ -30,7 +30,7 @@ Learning basic of Java you should start with:
 
 - [Mockito](https://github.com/mockito/mockito/wiki) - Mockito framework for unit tests in Java.
 
-But most important - and most valuable - is of course Java documentation. Sooner or later you will have to read documentations of projects, APIs etc. so start as soon as possible be familiar with it. Java doc could be found on oracle website, just choose wchich version do you need. 
+But most important - and most valuable - is of course Java documentation. Sooner or later you will have to read documentations of projects, APIs etc. so start as soon as possible be familiar with it. Java doc could be found on oracle website, just choose which version do you need. 
 
 Also remember that Google is your best friend. Probability of that someone asked beginner question that you have trouble with, is getting to 1. So probably every problem you have - is already solved on [StackOverflow](https://stackoverflow.com/)
 
