@@ -26,7 +26,7 @@ Learning basic of Java you should start with:
 
 [V. Sumbramaniam - Functional Programming in Java](https://www.amazon.com/Functional-Programming-Java-Harnessing-Expressions/dp/1937785467) - Java 8 added possibility of functional programming. This book is short - but quite well explanation lambdas & streams. Functional programming is different from imperative programming wchich you know - and you should know it.
 
-But most important - and most valuable - is of course Java documentation. Sooner or later you will have to read documentations of projects, APIs etc. so start as soon as possible be familiar with it. Jaca doc could be found on oracle website, just choose wchich version do you need. 
+But most important - and most valuable - is of course Java documentation. Sooner or later you will have to read documentations of projects, APIs etc. so start as soon as possible be familiar with it. Java doc could be found on oracle website, just choose wchich version do you need. 
 
 Also remember that Google is your best friend. Probability of that someone asked beginner question that you have trouble with, is getting to 1. So probably every problem you have - is already solved on [StackOverflow](https://stackoverflow.com/)
 
