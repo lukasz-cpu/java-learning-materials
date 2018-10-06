@@ -59,6 +59,7 @@ Algorithms are important part of programming. You don't need to could implement 
 
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - basic book of algorithms, perfect if you only want to know basics. Examples and implementations are written in Python - so it may be problem for you. 
 - [T. Cormen - Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) - algorithms bible, most recomended algorithm book. One thing - half of a book is about discrete math, so math knowledge is rather required. This book describes data structures also, so it's really good knowledge source.
+
 -[R. Sedgewick - Algorithms](https://www.amazon.com/gp/product/032157351X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=algs4-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=032157351X) - Another very good book. I recommend this book - because all examples are writen in Java. There is also ~200 pages about Java language - so it's perfect choice if you're learning Java.
 
 
@@ -77,19 +78,31 @@ To work with databases you have to know at least one database and know SQL. [The
 - [PostgreSQL](https://www.postgresql.org/)
 
 ## Spring Environment
-Spring is second must-have Java framework. It focalized in webdevelopment.
+Spring is second must-have Java framework. It focalized in webdevelopment. Spring environment has a lot of projects. Most important are:
 
 - [C. Walls - Spring in Action](https://www.manning.com/books/spring-in-action-fifth-edition) - covers all spring core concepts, like IoC container, Dependency Injection, AOP etc. Very good to start learning Spring.
 
 - [Official Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#spring-core) - best source - I recommend to read all, after finishing book.
 
-- [C. Walls - Spring Boot in Action](https://www.manning.com/books/spring-boot-in-action) - explaining core concepts of Spring Boot project.
+- [C. Walls - Spring Boot in Action](https://www.manning.com/books/spring-boot-in-action) - explaining core concepts of Spring Boot project like convention over configuration, actuator etc.
+
+- [Spring Boot Overview & Documentation](https://spring.io/projects/spring-boot#overview) - documentation, examples and usage of Spring Boot.
 
 - [Spring WebMvc](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#spring-web) - everything you need to create webapps. 
 
-- [Spring Rest](https://www.goodreads.com/book/show/25790509-spring-rest) - this book focalize in REST architecture style. There is more about HTTP request, JSON format etc.
+- [Spring REST](https://www.goodreads.com/book/show/25790509-spring-rest) - this book focalize in REST architecture style. There is more about HTTP request, JSON format etc.
+
+- [Spring Data JPA](https://spring.io/projects/spring-data) - documentation, examples and usage of Spring Data JPA. Higher level of abstraction, making database connection simple & without boilerplate code. It's recommended that you have strong knowledge about JPA before you start using Data.
+
+- [Spring Security Overview & documentation](https://spring.io/projects/spring-security) - documentation, examples and usage of Spring Security. It's about securing application - registrations, logins, authorizing requests etc.
+
+- [Spring Security tutorial](https://www.baeldung.com/security-spring) - securing app tutorial.
+
+- [There](https://spring.io/projects) you can find all Spring projects and documentations. If you know all technologies which are on this list - this is good source to learn new things. 
 
 
+
+##
 
 
 
