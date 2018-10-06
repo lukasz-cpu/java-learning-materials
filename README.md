@@ -16,15 +16,15 @@ Next - you should get basic knowledge of algorithms - so [Grokking Algorithms](h
 
 Learning basic of Java you should start with: 
 
-[C. Horstmann - Core Java - Fundamentals](https://www.amazon.com/Core-Java-I-Fundamentals-1-11th/dp/0135166306) - It's good book for begginers, clearly explains what java is, OOP paradigm, and all core java mechanisms. One con that I see is: there is no exercises to do. 
+- [C. Horstmann - Core Java - Fundamentals](https://www.amazon.com/Core-Java-I-Fundamentals-1-11th/dp/0135166306) - It's good book for begginers, clearly explains what java is, OOP paradigm, and all core java mechanisms. One con that I see is: there is no exercises to do. 
 
-[C. Horstmann - Core Java - Advenced Features](https://www.amazon.com/Core-Java-II-Advanced-Features-11th/dp/0135166314) - this is continuation Java Fundamentals. It's broaching more complex problems - like JDBC, XML parsing etc. 
+- [C. Horstmann - Core Java - Advenced Features](https://www.amazon.com/Core-Java-II-Advanced-Features-11th/dp/0135166314) - this is continuation Java Fundamentals. It's broaching more complex problems - like JDBC, XML parsing etc. 
 
-[C. Martin - Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - called a "programmer bible", it's quite old but actual. I strongly recommend this book - it shows good practises and moreover examples are writen in Java. So double gainings.
+- [C. Martin - Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - called a "programmer bible", it's quite old but actual. I strongly recommend this book - it shows good practises and moreover examples are writen in Java. So double gainings.
 
-[Joshua Bloch - Effective Java](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997) - to read this book, you should have good knowledge of Java. It's collection of good practises and popular mistakes explain.
+- [Joshua Bloch - Effective Java](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997) - to read this book, you should have good knowledge of Java. It's collection of good practises and popular mistakes explain.
 
-[V. Sumbramaniam - Functional Programming in Java](https://www.amazon.com/Functional-Programming-Java-Harnessing-Expressions/dp/1937785467) - Java 8 added possibility of functional programming. This book is short - but quite well explanation lambdas & streams. Functional programming is different from imperative programming wchich you know - and you should know it.
+- [V. Sumbramaniam - Functional Programming in Java](https://www.amazon.com/Functional-Programming-Java-Harnessing-Expressions/dp/1937785467) - Java 8 added possibility of functional programming. This book is short - but quite well explanation lambdas & streams. Functional programming is different from imperative programming wchich you know - and you should know it.
 
 But most important - and most valuable - is of course Java documentation. Sooner or later you will have to read documentations of projects, APIs etc. so start as soon as possible be familiar with it. Java doc could be found on oracle website, just choose wchich version do you need. 
 
@@ -60,7 +60,7 @@ Algorithms are important part of programming. You don't need to could implement 
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - basic book of algorithms, perfect if you only want to know basics. Examples and implementations are written in Python - so it may be problem for you. 
 - [T. Cormen - Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) - algorithms bible, most recomended algorithm book. One thing - half of a book is about discrete math, so math knowledge is rather required. This book describes data structures also, so it's really good knowledge source.
 
--[R. Sedgewick - Algorithms](https://www.amazon.com/gp/product/032157351X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=algs4-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=032157351X) - Another very good book. I recommend this book - because all examples are writen in Java. There is also ~200 pages about Java language - so it's perfect choice if you're learning Java.
+- [R. Sedgewick - Algorithms](https://www.amazon.com/gp/product/032157351X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=algs4-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=032157351X) - Another very good book. I recommend this book - because all examples are writen in Java. There is also ~200 pages about Java language - so it's perfect choice if you're learning Java.
 
 
 ## Hibernate
