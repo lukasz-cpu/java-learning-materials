@@ -18,7 +18,7 @@ Learning basic of Java you should start with:
 
 - [C. Horstmann - Core Java - Fundamentals](https://www.amazon.com/Core-Java-I-Fundamentals-1-11th/dp/0135166306) - It's good book for begginers, clearly explains what java is, OOP paradigm, and all core java mechanisms. One con that I see is: there is no exercises to do. 
 
-- [Java video course in Udemy](https://www.udemy.com/java-the-complete-java-developer-course/) - if your prefer listen than reading - this course is also recommended. But it touches only basics, so books below would be great replenishment.
+- [Java video course in Udemy](https://www.udemy.com/java-the-complete-java-developer-course/) - if your prefer listen than read - this course is also recommended. But it touches only basics, so books below would be great replenishment.
 
 - [C. Horstmann - Core Java - Advenced Features](https://www.amazon.com/Core-Java-II-Advanced-Features-11th/dp/0135166314) - this is continuation Java Fundamentals. It's broaching more complex problems - like JDBC, XML parsing etc. 
 
