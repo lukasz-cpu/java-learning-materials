@@ -68,7 +68,7 @@ Algorithms are important part of programming. You don't need to could implement 
 To create more useful applications - you will have to connect app with database. There is a 4 (later 5) topics that you have to know.
 It's JDBC, ORM, JPA and Hibernate. Hibernate is Java framework whhich simplified database management. I assume you know something about JDBC (it's in Java Advenced Features by Horstmann). JPA is Java Persistence Application Programming Interface - and Hibernate is implementation of JPA specification. [More complex definition](http://tothought.com/post/2). ORM stands for [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping).
 
-[Java Persistence with Hibernate](https://www.manning.com/books/java-persistence-with-hibernate) - nice guidebook touching ORM, JPA and Hibernate. It's required lecture. 
+[Java Persistence with Hibernate](https://www.manning.com/books/java-persistence-with-hibernate) - nice guidebook touching ORM, JPA and Hibernate. If you want to know Hibernate - it's the best lecture. 
 
 [Hibernate documentation](http://hibernate.org/orm/documentation/5.3/) - also required lecture - everyting about Hibernate. Also there is a good description of Hibernate Validator and Hibernate Search, what is very helpfull.
 
