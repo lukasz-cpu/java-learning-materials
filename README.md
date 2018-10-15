@@ -63,7 +63,7 @@ Another, not required but very usefull things:
 
 ## Algorithms
 
-Algorithms are important part of programming. You don't need to could implement Djikstra algorithm - but you have to know that something like this exists and what it is.
+Algorithms are important part of programming. You don't need to could implement Dijkstra algorithm - but you have to know that something like this exists and what it is.
 
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - basic book of algorithms, perfect if you only want to know basics. Examples and implementations are written in Python - so it may be problem for you. 
 - [T. Cormen - Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) - algorithms bible, most recomended algorithm book. One thing - half of a book is about discrete math, so math knowledge is rather required. This book describes data structures also, so it's really good knowledge source.
